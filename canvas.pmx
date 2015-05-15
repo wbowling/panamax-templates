@@ -1,0 +1,10 @@
+---
+name: Canvas
+description: ''
+keywords: ''
+type: Default
+documentation: ''
+images:
+- name: tle-build3_5000_autotest_canvas_latest
+  source: tle-build3:5000/autotest_canvas:latest
+  type: Default
